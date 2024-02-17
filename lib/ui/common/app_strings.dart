@@ -1,0 +1,19 @@
+const String ksAppName = 'Constacked';
+const String ksSearch = 'Search';
+const String ksAddNewContact = 'Add New Contact';
+const String ksAddContact = 'Add Contact';
+const String ksNewContact = 'New Contact';
+const String ksFirstName = 'First Name';
+const String ksLastName = 'Last Name';
+const String ksPhone = 'Phone number';
+const String ksNotes = 'Notes';
+const String ksNickname = 'Nickname';
+const String ksRelationship = 'Relationship';
+const String ksEmail = 'Email';
+const String ksGroups = 'Groups';
+const String ksDone = 'Done';
+const String ksCancel = 'Cancel';
+const String ksEditContact = 'Edit Contact';
+const String ksDeleteContact = 'Delete Contact';
+const String ksDeleteContactMessage = 'Are you sure you want to delete your contact';
+
